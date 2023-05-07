@@ -25,7 +25,7 @@ local Ban = {
 	[3245277447] = {Motivo = "flw"}, -- abusando de comandos
 	[4285090732] = {Motivo = "abusa e quita"}, -- abusando de comandos
 	[4585395127] = {Motivo = "Fingindo ser outra pessoa"}, -- usando meu nick extnocrak
-	
+	[4513068499] = {Motivo = "flw"}, -- fake de algum doido
 	
 }
 return Ban 
