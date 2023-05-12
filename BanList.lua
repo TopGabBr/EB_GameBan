@@ -18,7 +18,6 @@ local Ban = {
 	[840869435] = {Motivo = "Abusando de comandos all."},
 	[3673993643] = {Motivo = "Abusando de comandos all."},
         [3008820693] = {Motivo = "amigo do p3u"},
-	[3184983208] = {Motivo = "Dando rank e admin para o cara que eu Fonojonzo acabei de tirar, vai ficar ban por muito tempo otário."},
 	[538629407] = {Motivo = "HeadAdmin all"},
 	[2521671238] = {Motivo = "Gameban all"},
 	[1251812064] = {Motivo = "volta ai"},
