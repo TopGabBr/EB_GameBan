@@ -26,6 +26,7 @@ local Ban = {
 	[4285090732] = {Motivo = "abusa e quita"}, -- abusando de comandos
 	[4585395127] = {Motivo = "Fingindo ser outra pessoa"}, -- usando meu nick extnocrak
 	[4513068499] = {Motivo = "flw"}, -- fake de algum doido
-	
+	[1898375346] = {Motivo = "flw"}, -- Dando team pra todos civis
+	[2315018739] = {Motivo = "flw"}, -- jail all mute all e quitou.
 }
 return Ban 
