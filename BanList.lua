@@ -27,5 +27,6 @@ local Ban = {
 	[1898375346] = {Motivo = "flw"}, -- Dando team pra todos civis
 	[2315018739] = {Motivo = "flw"}, -- jail all mute all e quitou. 
 	[1150665955] = {Motivo = "flw"}, -- Char all capybara 10 vezes seguidas
+	[3894132506] = {Motivo = "Robox"}, -- abusando de comandos
 }
 return Ban 
