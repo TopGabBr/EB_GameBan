@@ -22,11 +22,12 @@ local Ban = {
 	[1251812064] = {Motivo = "volta ai"},
 	[3245277447] = {Motivo = "flw"}, -- abusando de comandos
 	[4285090732] = {Motivo = "abusa e quita"}, -- abusando de comandos
-	[4585395127] = {Motivo = "Fingindo ser outra pessoa"}, -- usando meu nick extnocrak
+	[4585395127] = {Motivo = "Flw"}, -- usando meu nick extnocrak
 	[4513068499] = {Motivo = "flw"}, -- fake de algum doido
 	[1898375346] = {Motivo = "flw"}, -- Dando team pra todos civis
 	[2315018739] = {Motivo = "flw"}, -- jail all mute all e quitou. 
 	[1150665955] = {Motivo = "flw"}, -- Char all capybara 10 vezes seguidas
 	[3894132506] = {Motivo = "Robox"}, -- abusando de comandos
+	[3762493870] = {Motivo = "Ameaçando adm"}, -- abusando de comandos/ameaçando adm
 }
 return Ban 
