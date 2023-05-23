@@ -30,5 +30,6 @@ local Ban = {
 	[3894132506] = {Motivo = "Robox"}, -- abusando de comandos
 	[3762493870] = {Motivo = "Ameaçando adm"}, -- abusando de comandos/ameaçando adm
 	[3953873414] = {Motivo = "tome"}, -- flodando char all
+        [449904070] = {Motivo = "flw"}, --demente mental
 }
 return Ban 
