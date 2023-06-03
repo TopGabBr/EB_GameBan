@@ -31,5 +31,6 @@ local Ban = {
 	[3762493870] = {Motivo = "Ameaçando adm"}, -- abusando de comandos/ameaçando adm
 	[3953873414] = {Motivo = "tome"}, -- flodando char all
 	[4539606985] = {Motivo = "Valeu falou"}, -- char all dance all bodyswap all abort all
+	[3451759931] = {Motivo = "Flw"}, -- team all, speed all, jail all
 }
 return Ban 
