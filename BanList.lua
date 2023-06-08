@@ -35,6 +35,8 @@ local Ban = {
 	[3513309700] = {Motivo = "Flw"}, -- rank all supervisor
 	[3220417851] = {Motivo = "Divulgando EB"}, -- Divulgando EB
 	[3419359846] = {Motivo = "Divulgando EB"}, -- Divulgando EB
+	[3445592223] = {Motivo = "Divulgando EB"}, -- EB que foi divulgada, amigo do suspeito com 3 amigos.
+	
 
 	
 }
