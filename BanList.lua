@@ -37,7 +37,7 @@ local Ban = {
 	[3419359846] = {Motivo = "Divulgando EB"}, -- Divulgando EB
 	[3445592223] = {Motivo = "Divulgando EB"}, -- EB que foi divulgada, amigo do suspeito com 3 amigos.
 	[1661860127] = {Motivo = "vamos pensar em desbanir quando deletar os emblemas"}, -- 
-	[2896747496] = {Motivo = "falta de robox"}, -- Aleatoriodomorro54
+	--[2896747496] = {Motivo = "falta de robox"}, -- Aleatoriodomorro54
 
 	
 }
