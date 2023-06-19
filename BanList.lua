@@ -38,7 +38,6 @@ local Ban = {
 	[3445592223] = {Motivo = "Divulgando EB"}, -- EB que foi divulgada, amigo do suspeito com 3 amigos.
 	[1661860127] = {Motivo = "vamos pensar em desbanir quando deletar os emblemas"}, -- 
 	--[2896747496] = {Motivo = "falta de robox"}, -- Aleatoriodomorro54
-	[375521456]  = {Motivo = " "}, -- roubo de conta
 	[4230561867] = {Motivo = " "}, -- 
 	[4043648709] = {Motivo = "valeu é nós"}, -- abusando de comandos all entre v3 e v4
 
