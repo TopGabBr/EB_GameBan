@@ -40,8 +40,8 @@ local Ban = {
 	--[2896747496] = {Motivo = "falta de robox"}, -- Aleatoriodomorro54
 	[4230561867] = {Motivo = " "}, -- 
 	[4043648709] = {Motivo = "valeu é nós"}, -- abusando de comandos all entre v3 e v4
-	[1265141659] = {Motivo = "valeu é nós"}, -- abusando de comandos all entre v3 e v4
-	[2843272598] = {Motivo = "valeu é nós"}, -- abusando de comandos all entre v3 e v4
+	[1265141659] = {Motivo = "roblux"}, -- abusando de comandos all entre v3 e v4
+	[2843272598] = {Motivo = "flw mano"}, -- abusando de comandos all entre v3 e v4
 
 	
 }
