@@ -39,7 +39,7 @@ local Ban = {
 	[1661860127] = {Motivo = "vamos pensar em desbanir quando deletar os emblemas"}, -- 
 	--[2896747496] = {Motivo = "falta de robox"}, -- Aleatoriodomorro54
 	[4230561867] = {Motivo = " "}, -- 
-
+	[1265141659] = {Motivo = " "}, -- flodando jail all
 	
 }
 return Ban 
