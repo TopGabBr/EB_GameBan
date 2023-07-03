@@ -37,10 +37,11 @@ local Ban = {
 	[3419359846] = {Motivo = "Divulgando EB"}, -- Divulgando EB
 	[3445592223] = {Motivo = "Divulgando EB"}, -- EB que foi divulgada, amigo do suspeito com 3 amigos.
 	[1661860127] = {Motivo = "vamos pensar em desbanir quando deletar os emblemas"}, -- 
-	[2896747496] = {Motivo = "tanque comunista"}, -- Aleatoriodomorro54
+	[289674749] = {Motivo = "tanque comunista"}, -- Aleatoriodomorro54
 	[1265141659] = {Motivo = " "}, -- flodando jail all
 	[1973218862] = {Motivo = "Mod all"}, -- mod all no v3
 	[517391900] = {Motivo = "flw"}, -- dando rank all no v2
+	[1175114342] = {Motivo = "flw",--s require
 	
 	
 }
