@@ -41,5 +41,6 @@ local Ban = {
 	[1973218862] = {Motivo = "Mod all"}, -- mod all no v3
 	[517391900] = {Motivo = "flw"}, -- dando rank all no v2
 	[263287460] = {Motivo = "flw"}, -- report do master, falando que tava ferrando o jogo todo, voando exploitando trollando as ebs;
+	[2963030044] = {Motivo = "flw"}, -- falando pra me banir sendo que sou dono, tambem conspira contra mim mesmo sendo da equipe
 }
 return Ban 
