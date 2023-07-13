@@ -41,6 +41,5 @@ local Ban = {
 	[1973218862] = {Motivo = "Mod all"}, -- mod all no v3
 	[517391900] = {Motivo = "flw"}, -- dando rank all no v2
 	[263287460] = {Motivo = "flw"}, -- report do master, falando que tava ferrando o jogo todo, voando exploitando trollando as ebs;
-	[1990414919] = {Motivo = "Venda/Troca de contas"}, -- nuca_vali (deixar um tempão banido)
 }
 return Ban 
