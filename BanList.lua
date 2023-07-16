@@ -43,7 +43,6 @@ local Ban = {
 	[263287460] = {Motivo = "flw"}, -- report do master, falando que tava ferrando o jogo todo, voando exploitando trollando as ebs;
 	[3375177854] = {Motivo = "Crime virtual"}, -- Assédio online?
 	[629259254] = {Motivo = ". . ."}, -- vendendo coisas escondido
-	[3960334125] = {Motivo = ". ."}, --
 	[1833320201] = {Motivo = "flw lulumas"}, --
 }
 return Ban 
