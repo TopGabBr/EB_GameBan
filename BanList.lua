@@ -44,5 +44,6 @@ local Ban = {
 	[3375177854] = {Motivo = "Crime virtual"}, -- Assédio online?
 	[3960334125] = {Motivo = ". ."}, --
 	[1833320201] = {Motivo = "flw lulumas"}, --
+	[3076686570] = {Motivo = ""}, -- baconteamforever
 }
 return Ban 
