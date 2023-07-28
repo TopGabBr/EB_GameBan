@@ -49,6 +49,8 @@ local Ban = {
 	[1449432756] = {Motivo = "troll"}, -- master
 	[2896747496] = {Motivo = "troll"}, -- junin
 	[2254531874] = {Motivo = "troll"}, --
+	[4641581758] = {Motivo = ""}, -- pessoal não gosta deles
+	[4091184049] = {Motivo = ""}, -- pessoal não gosta deles
 
 	
 }
