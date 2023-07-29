@@ -47,7 +47,7 @@ local Ban = {
 	[3076686570] = {Motivo = ""}, -- baconteamforever
 	[143220887] = {Motivo = "troll"}, -- baconteamforever
 	[1449432756] = {Motivo = "troll"}, -- master
-	[2896747496] = {Motivo = "troll"}, -- junin
+	[289674749] = {Motivo = "troll"}, -- junin o junin não trolou, então porfavor não dê ban nele novamente
 	[2254531874] = {Motivo = "troll"}, --
 	[4641581758] = {Motivo = ""}, -- pessoal não gosta deles
 	[4091184049] = {Motivo = ""}, -- pessoal não gosta deles
