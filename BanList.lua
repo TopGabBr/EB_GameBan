@@ -52,4 +52,5 @@ local Ban = {
 	[4641581758] = {Motivo = ""}, -- pessoal não gosta deles
 	[4091184049] = {Motivo = ""}, -- pessoal não gosta deles
 	[4353029216] = {Motivo = ""}, -- derrubando jogo comando all
+	[2579583119] = {Motivo = "valeu da rubuq"}, --
 return Ban 
