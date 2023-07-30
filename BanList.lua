@@ -51,5 +51,8 @@ local Ban = {
 	[2254531874] = {Motivo = "troll"}, --
 	[4641581758] = {Motivo = ""}, -- pessoal não gosta deles
 	[4091184049] = {Motivo = ""}, -- pessoal não gosta deles
-	[4353029216] = {Motivo = ""}, -- derrubando jogo comando all
+	[2929532380] = {Motivo = ""}, --xingando e espalhando informação não real -- não sabe nada que acontece internamente
+
+	
+}
 return Ban 
