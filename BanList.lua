@@ -1,4 +1,5 @@
 local Ban = {
+	[3615676414] = {Motivo = " "}, p3u
 	[1919390511] = {Motivo = "Wild fire all"},
 	[3380344108] = {Motivo = "Mutando todos do jogo e tirando patente"},
 	[3715134739] = {Motivo = "Unrank all, ban all"},
