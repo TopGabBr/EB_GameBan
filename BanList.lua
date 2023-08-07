@@ -57,7 +57,7 @@ local Ban = {
 	[3512931520] = {Motivo = "troll"}, -- usando comandos all
 	[4077843662] = {Motivo = "vendendo rank"}, -- vendendo rank
 	[3831547111] = {Motivo = ""}, --
-	[4062971306] = {Motivo = "Vendendo Rank"}, --
+	[4062971306] = {Motivo = "Vendendo Rank"}, --123123123123213
 
 	
 return Ban 
