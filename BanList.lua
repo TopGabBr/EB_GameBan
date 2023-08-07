@@ -58,6 +58,7 @@ local Ban = {
 	[4077843662] = {Motivo = "vendendo rank"}, -- vendendo rank
 	[3831547111] = {Motivo = ""}, --
 	[4062971306] = {Motivo = "Vendendo Rank"}, --
+	[2490018002] = {Motivo = "."}, -- top
 
 	
 return Ban 
