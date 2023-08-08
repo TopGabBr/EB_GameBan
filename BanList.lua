@@ -2,6 +2,7 @@ local Ban = {
 	[3615676414] = {Motivo = " "}, -- p3u
 	[1919390511] = {Motivo = "Wild fire all"},
 	[3380344108] = {Motivo = "Mutando todos do jogo e tirando patente"},
+	[417042351] = {Motivo = "troll"}, -- matando varias pessoas do nd
 	[3715134739] = {Motivo = "Unrank all, ban all"},
 	[2345451268] = {Motivo = "Acusando e tirando pat de todos falsamente."},
 	[4026779595] = {Motivo = "Banido."},
