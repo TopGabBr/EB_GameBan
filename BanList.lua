@@ -43,20 +43,16 @@ local Ban = {
 	[517391900] = {Motivo = "flw"}, -- dando rank all no v2
 	[263287460] = {Motivo = "flw"}, -- report do master, falando que tava ferrando o jogo todo, voando exploitando trollando as ebs;
 	[3375177854] = {Motivo = "Crime virtual"}, -- Assédio online?
-	[3960334125] = {Motivo = ". ."}, --
 	[1833320201] = {Motivo = "flw lulumas"}, --
 	[3076686570] = {Motivo = ""}, -- baconteamforever
 	[143220887] = {Motivo = "troll"}, -- dudu
 	[1449432756] = {Motivo = "troll"}, -- master
 	[2896747496] = {Motivo = "troll"}, -- junin
 	[2254531874] = {Motivo = "troll"}, --
-	[4641581758] = {Motivo = ""}, -- pessoal não gosta deles
-	[4091184049] = {Motivo = ""}, -- pessoal não gosta deles
 	[4353029216] = {Motivo = ""}, -- derrubando jogo comando all
 	[2579583119] = {Motivo = "valeu da rubuq"}, --
 	[3512931520] = {Motivo = "troll"}, -- usando comandos all
 	[4077843662] = {Motivo = "vendendo rank"}, -- vendendo rank
-	[3831547111] = {Motivo = ""}, --
 	[4062971306] = {Motivo = "Vendendo Rank"}, --
 	[2736511740] = {Motivo = "Vendendo Rank"}, --
 	[2986876754] = {Motivo = "Vendendo Rank"}, --
