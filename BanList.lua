@@ -60,6 +60,7 @@ local Ban = {
 	[3831547111] = {Motivo = "troll"}, --
 	[3781119726] = {Motivo = "devolvendo rank pra troll"}, --
 	[1331247549] = {Motivo = "flw"}, -- xingando as pessoas no dc
+	[1337000882] = {Motivo = "copiando meu nick"}, -- se passando por mim no dc
 	
 	
 
