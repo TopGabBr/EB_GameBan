@@ -13,7 +13,7 @@ local Ban = {
 	[2521671238] = {Motivo = "Suspeita de infiltrado."},
         [3000934539] = {Motivo = "Ameaçando"},
 	[1795253070] = {Motivo = "Flw"},-- Derrubando a EB e dando rank all
-	[3651064753] = {Motivo = " "},-- Gameleaks
+	[3651064753] = {Motivo = "flw"},-- Gameleaks
 	[4343226099] = {Motivo = "pedido do ext"},
 	[4499219673] = {Motivo = "Abusando de comandos all."},
 	[840869435] = {Motivo = "Abusando de comandos all."},
@@ -39,7 +39,7 @@ local Ban = {
 	[3419359846] = {Motivo = "Divulgando EB"}, -- Divulgando EB
 	[3445592223] = {Motivo = "Divulgando EB"}, -- EB que foi divulgada, amigo do suspeito com 3 amigos.
 	[1661860127] = {Motivo = "vamos pensar em desbanir quando deletar os emblemas"}, -- 
-	[1265141659] = {Motivo = " "}, -- flodando jail all
+	[1265141659] = {Motivo = "flw"}, -- flodando jail all
 	[1973218862] = {Motivo = "Mod all"}, -- mod all no v3
 	[517391900] = {Motivo = "flw"}, -- dando rank all no v2
 	[263287460] = {Motivo = "flw"}, -- report do master, falando que tava ferrando o jogo todo, voando exploitando trollando as ebs;
@@ -50,7 +50,7 @@ local Ban = {
 	[1449432756] = {Motivo = "troll"}, -- master
 	[2896747496] = {Motivo = "troll"}, -- junin
 	[2254531874] = {Motivo = "troll"}, --
-	[4353029216] = {Motivo = ""}, -- derrubando jogo comando all
+	[4353029216] = {Motivo = "flw"}, -- derrubando jogo comando all
 	[2579583119] = {Motivo = "valeu da rubuq"}, --
 	[3512931520] = {Motivo = "troll"}, -- usando comandos all
 	[4077843662] = {Motivo = "vendendo rank"}, -- vendendo rank
@@ -59,6 +59,7 @@ local Ban = {
 	[2986876754] = {Motivo = "Vendendo Rank"}, --
 	[3831547111] = {Motivo = "troll"}, --
 	[3781119726] = {Motivo = "devolvendo rank pra troll"}, --
+	[1331247549] = {Motivo = "flw"}, -- xingando as pessoas no dc
 	
 	
 
