@@ -62,6 +62,7 @@ local Ban = {
 	[1331247549] = {Motivo = "flw"}, -- xingando as pessoas
 	[1337000882] = {Motivo = "copiando meu nick"}, -- se passando por mim
 	[4760141491] = {Motivo = "flw"}, -- entrando no jogo pra trolar
+	[1745746715] = {Motivo = "exploit"}, -- entrando no jogo pra trolar
 	
 	
 
