@@ -63,7 +63,7 @@ local Ban = {
 	[1337000882] = {Motivo = "copiando meu nick"}, -- se passando por mim
 	[4760141491] = {Motivo = "flw"}, -- entrando no jogo pra trolar
 	[1745746715] = {Motivo = "exploit"}, -- entrando no jogo pra trolar
-	[3108673472] = {Motivo = "char"}, -- antony
+	[3108673472] = {Motivo = "char"}, -- ANTONY75431
 	
 
 	
