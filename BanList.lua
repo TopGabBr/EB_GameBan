@@ -64,6 +64,6 @@ local Ban = {
 	[4760141491] = {Motivo = "flw"}, -- entrando no jogo pra trolar
 	[1745746715] = {Motivo = "exploit"}, -- entrando no jogo pra trolar
 	[3108673472] = {Motivo = "char"}, -- ANTONY75431
-	[3222163841] = {Motivo = "char"}, -- ANTONY75431
+	[3222163841] = {Motivo = "troll dando rank all"}, -- rank all
 }
 return Ban 
