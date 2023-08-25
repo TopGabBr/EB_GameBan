@@ -66,5 +66,7 @@ local Ban = {
 	[3108673472] = {Motivo = "char"}, -- ANTONY75431
 	[3222163841] = {Motivo = "troll dando rank all"}, -- rank all
 	[1668680002] = {Motivo = "Dando 30 mil unrank por segundo"}, -- rank all
+	[1852822357] = {Motivo = "Fracassado sem vida"}, -- uiui12332 tentando crashar eb 
+	
 }
 return Ban 
