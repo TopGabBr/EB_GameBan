@@ -68,7 +68,7 @@ local Ban = {
 	[1668680002] = {Motivo = "Dando 30 mil unrank por segundo"}, -- rank all
 	[1852822357] = {Motivo = ""}, -- uiui12332 tentando crashar eb 
 	[2644756576] = {Motivo = "Cria mais contas ai"}, -- HEYYOUWTH666 dando rank pra conta pra trollar
-	
+	[4222984582] = {Motivo = "Venda de Rank"}, -- Vendendo rank DC
 	
 }
 return Ban 
