@@ -70,6 +70,6 @@ local Ban = {
 	[2644756576] = {Motivo = "Cria mais contas ai"}, -- HEYYOUWTH666 dando rank pra conta pra trollar
 	[4222984582] = {Motivo = "Venda de Rank"}, -- Vendendo rank DC
 	[3901109248] = {Motivo = "flw"}, -- 
-	[3762616235] = {Motivo = "flw"}, -- pedido de um helper
+	[3762616235] = {Motivo = "pedido de um helper"}, --
 }
 return Ban 
