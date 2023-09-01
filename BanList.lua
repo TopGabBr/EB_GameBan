@@ -71,6 +71,7 @@ local Ban = {
 	[4222984582] = {Motivo = "Venda de Rank"}, -- Vendendo rank DC
 	[3901109248] = {Motivo = "flw"}, -- 
 	[3762616235] = {Motivo = "pedido de um helper"}, --
-	[143220887] = {Motivo = "pedido de um helper"}, --
+	[143220887] = {Motivo = "ok"}, --
+	[3660136209] = {Motivo = "flw"}, --
 }
 return Ban 
