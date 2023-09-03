@@ -74,7 +74,7 @@ local Ban = {
 	[143220887] = {Motivo = "ok"}, --
 	[3660136209] = {Motivo = "flw"}, --
 	[2457529575] = {Motivo = "flw"}, -- querendo atenção
-	[3869524902] = {Motivo = "flw"}, -- querendo atenção
+	[3869524902] = {Motivo = "flw"}, -- dando rank all
 	
 }
 return Ban 
