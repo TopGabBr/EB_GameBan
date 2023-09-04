@@ -75,6 +75,7 @@ local Ban = {
 	[3660136209] = {Motivo = "flw"}, --
 	[2457529575] = {Motivo = "flw"}, -- querendo atenção
 	[3869524902] = {Motivo = "flw"}, -- dando rank all
+	[1884048887] = {Motivo = "sim, eu entrei no jogo"}, -- troll com all
 	
 }
 return Ban 
