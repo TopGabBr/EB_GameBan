@@ -77,6 +77,7 @@ local Ban = {
 	[3869524902] = {Motivo = "flw"}, -- dando rank all
 	[1884048887] = {Motivo = "sim, eu entrei no jogo"}, -- troll com all
 	[4032941258] = {Motivo = "vai jogar p3u"}, -- dolinho_adm escravo do p3u
+	[3390343354] = {Motivo = "falta de robux"}, -- troll com all
 	
 	
 }
