@@ -80,6 +80,8 @@ local Ban = {
 	[3390343354] = {Motivo = "falta de robux"}, -- troll com all
 	[3699275911] = {Motivo = "basico"}, -- injúria
 	[3163879043] = {Motivo = "flw"}, -- grupo de troll
+	[3200911739] = {Motivo = "Tentativa de Team all"}, -- team all
+	
 	
 	
 }
