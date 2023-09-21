@@ -60,7 +60,7 @@ local Ban = {
 	[3831547111] = {Motivo = "troll"}, --
 	[3781119726] = {Motivo = "devolvendo rank pra troll"}, --
 	[1331247549] = {Motivo = "flw"}, -- xingando as pessoas
-	[1337000882] = {Motivo = "copiando meu nick"}, -- se passando por mim
+	[1337000882] = {Motivo = "copia"}, -- se passando por mim
 	[4760141491] = {Motivo = "flw"}, -- entrando no jogo pra trolar
 	[1745746715] = {Motivo = "exploit"}, -- entrando no jogo pra trolar
 	[3108673472] = {Motivo = "char"}, -- ANTONY75431
@@ -81,6 +81,7 @@ local Ban = {
 	[3699275911] = {Motivo = "basico"}, -- injúria
 	[3163879043] = {Motivo = "flw"}, -- grupo de troll
 	[3200911739] = {Motivo = "Tentativa de Team all"}, -- team all
+	[3258287960] = {Motivo = "Ok"}, -- pegou uma copia do eb com c4 dentro e n sabia e veio se exibir contra nós
 	
 	
 	
