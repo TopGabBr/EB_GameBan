@@ -82,6 +82,7 @@ local Ban = {
 	[3163879043] = {Motivo = "flw"}, -- grupo de troll
 	[3200911739] = {Motivo = "Tentativa de Team all"}, -- team all
 	[3258287960] = {Motivo = "Ok"}, -- pegou uma copia do eb com c4 dentro e n sabia e veio se exibir contra nós
+	[365126610] = {Motivo = "flw"}, --  matando geral no v1 e no v2 troll com comando
 	
 	
 	
