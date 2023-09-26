@@ -84,8 +84,7 @@ local Ban = {
 	[3258287960] = {Motivo = "Ok"}, -- pegou uma copia do eb com c4 dentro e n sabia e veio se exibir contra nós
 	[365126610] = {Motivo = "flw"}, --  matando geral no v1 e no v2 troll com comando
 	[541267094] = {Motivo = "flw"}, --  
-	[1263568404] = {Motivo = "spammando no discord"}, --  
-	
-	
+	[4770008043] = {Motivo = "speed all 10000000000"}, --  spammando speed all igual doente
+
 }
 return Ban 
