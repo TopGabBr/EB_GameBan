@@ -85,6 +85,7 @@ local Ban = {
 	[365126610] = {Motivo = "flw"}, --  matando geral no v1 e no v2 troll com comando
 	[541267094] = {Motivo = "flw"}, --  
 	[694675746] = {Motivo = "R6 OTHERS"}, --  spammando r6 others
+	[1028612797] = {Motivo = "flw dude"}, --  literal pediu
 	
 
 	
