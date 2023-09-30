@@ -86,6 +86,7 @@ local Ban = {
 	[541267094] = {Motivo = "flw"}, --  
 	[694675746] = {Motivo = "R6 OTHERS"}, --  spammando r6 others
 	[1028612797] = {Motivo = "flw dude"}, --  literal pediu
+	[2963030044] = {Motivo = "flw"}, --  helper
 	
 
 	
