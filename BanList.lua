@@ -51,7 +51,7 @@ local Ban = {
 	[2896747496] = {Motivo = "troll"}, -- junin
 	[2254531874] = {Motivo = "troll"}, --
 	[4353029216] = {Motivo = "flw"}, -- derrubando jogo comando all
-	[2579583119] = {Motivo = "valeu da rubuq"}, --
+	[2579583119] = {Motivo = "valeu da rubuq"}, -- jovem dos xingamentos
 	[3512931520] = {Motivo = "troll"}, -- usando comandos all
 	[4077843662] = {Motivo = "vendendo rank"}, -- vendendo rank
 	[4062971306] = {Motivo = "Vendendo Rank"}, --
