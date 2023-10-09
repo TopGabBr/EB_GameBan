@@ -88,6 +88,7 @@ local Ban = {
 	[1028612797] = {Motivo = "flw dude"}, --  literal pediu
 	[4588347183] = {Motivo = "flw"}, --  amizade do helper atacando sem saber da historia
 	[4961359008] = {Motivo = "Avisado"}, --  bobão  do dc
+	[3835512831] = {Motivo = "troll"}, -- comandos all spammando
 	
 
 	
