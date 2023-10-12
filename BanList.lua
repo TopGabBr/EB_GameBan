@@ -92,7 +92,7 @@ local Ban = {
 	[2995599962] = {Motivo = "troll"}, -- comandos all spammando
 	[1684970284] = {Motivo = "volte para 2017"}, -- tentando roubar conta fingindo que vai colocar robux
 	[4578959899] = {Motivo = "flw"}, -- ele simplesmente queria ser banido
-	
+	[13032042] = {Motivo = "aqui não né top"}, -- topgab entrando em conta fake pra trollar o jogo
 
 	
 }
