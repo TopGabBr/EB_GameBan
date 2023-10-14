@@ -96,6 +96,7 @@ local Ban = {
 	[2005319633] = {Motivo = "flw"}, -- zoando no dc por n aceitar banimento por abusar no jogo
 	[4539404582] = {Motivo = "exploit"}, -- hack
 	[2622901376] = {Motivo = "flw"}, -- cumplice do hack
+	[2022158641] = {Motivo = "cumplice3"}, -- cumplice do hack
 	
 }
 return Ban 
