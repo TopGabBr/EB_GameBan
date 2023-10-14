@@ -12,6 +12,7 @@ local Ban = {
 	[4326175331] = {Motivo = "Joga na EB do P3U."},
 	[2521671238] = {Motivo = "Suspeita de infiltrado."},
         [3000934539] = {Motivo = "Ameaçando"},
+	[4792740987] = {Motivo = "flw"}, -- xingando em girias 
 	[1795253070] = {Motivo = "Flw"},-- Derrubando a EB e dando rank all
 	[3651064753] = {Motivo = "flw"},-- Gameleaks
 	[4343226099] = {Motivo = "pedido do ext"},
@@ -98,6 +99,7 @@ local Ban = {
 	[2622901376] = {Motivo = "flw"}, -- cumplice do hack
 	[2022158641] = {Motivo = "cumplice3"}, -- cumplice do hack
 	[3974278173] = {Motivo = "flw"}, -- me pergunta que explico
+	
 	
 }
 return Ban 
