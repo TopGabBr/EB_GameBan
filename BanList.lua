@@ -97,6 +97,7 @@ local Ban = {
 	[4539404582] = {Motivo = "exploit"}, -- hack
 	[2622901376] = {Motivo = "flw"}, -- cumplice do hack
 	[2022158641] = {Motivo = "cumplice3"}, -- cumplice do hack
+	[3974278173] = {Motivo = "flw"}, -- me pergunta que explico
 	
 }
 return Ban 
