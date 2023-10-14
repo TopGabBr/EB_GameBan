@@ -94,7 +94,7 @@ local Ban = {
 	[4578959899] = {Motivo = "flw"}, -- ele simplesmente queria ser banido
 	[13032042] = {Motivo = "aqui não né top"}, -- topgab entrando em conta fake pra trollar o jogo
 	[2005319633] = {Motivo = "flw"}, -- zoando no dc por n aceitar banimento por abusar no jogo
-
+	[4539404582] = {Motivo = "exploit"}, -- hack
 	
 }
 return Ban 
