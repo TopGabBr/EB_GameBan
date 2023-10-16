@@ -98,7 +98,7 @@ local Ban = {
 	[2622901376] = {Motivo = "flw"}, -- cumplice do hack
 	[2022158641] = {Motivo = "cumplice3"}, -- cumplice do hack
 	[3974278173] = {Motivo = "flw"}, -- me pergunta que explico
-	
+	[11200494415] = {Motivo = "nem te conheço"}, -- doido q seguiu até o jogo de jujutsu falando q vc é filho dele
 	
 }
 return Ban 
